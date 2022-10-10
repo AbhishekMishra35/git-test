@@ -3,4 +3,4 @@ numpy
 sklearn
 import numpy 
 import Pandas
-print
+print(india)
